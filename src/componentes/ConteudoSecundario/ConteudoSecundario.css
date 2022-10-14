@@ -1,0 +1,23 @@
+.conteudo-secundario{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.conteudo-secundario h3{
+    padding: 50px 0px 20px 0px;
+    color: #FFF2E7;
+    font-size: 24px;
+    border-top: 0.4px solid #FFF2E7;
+    width: 276.04px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.conteudo-secundario p{
+    color: #ECD6C4;
+    font-size: 18px;
+
+}
